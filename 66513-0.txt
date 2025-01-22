@@ -13,7 +13,6 @@ Title: The Bagpipers
 Author: George Sand
 
 Release Date: October 10, 2021 [eBook #66513]
-[Most recently updated: October 16, 2021]
 
 Language: English
 
@@ -1456,7 +1455,7 @@ north wind was able to keep Joseph from going off at night when the
 fancy took him.  People imagined he was one of those who walk or work
 in their sleep; but it was nothing of the kind, as you will see.
 
-On Christmas Eve, as Véret, the sabot-maker, was on his way to keep
+On Christmas Eve, as Véret, the sabot-maker, was an his way to keep
 the midnight feast with his parents at Ourouer, he saw under the big
 elm Râteau, not the giant who is said to walk under it with a rake on
 his shoulder, but a tall dark man who did not have a good face, and
@@ -1477,7 +1476,7 @@ took to be a spirit, who walked behind, keeping step with him.
 When they reached the end of the open ground the pursuer turned to
 the left, saying, "Good-night, Denis Véret!"
 
-And then for the first time Véret recognized Joseph, and laughed at
+And then lor the first time Véret recognized Joseph, and laughed at
 his own fears; but still without being able to imagine for what
 purpose and in whose company Joseph had come to the big elm between
 one and two o'clock in the morning.
@@ -1651,7 +1650,7 @@ is all very harmless.  But it is time we should have an explanation
 between us three; for José has now set his mind on spending his next
 wages--up to this time he has always given them to his mother--in
 buying a bagpipe; and, as he knows he is a poor hand at farm-labor
-and yet his heart is set on relieving his mother of hard work, he
+and set his heart is set on relieving his mother of hard work, he
 wants to take up the business of playing the bagpipe because, true
 enough, it pays well."
 
@@ -6695,7 +6694,7 @@ you may use as you like.  But as your wish seems to be to compose,
 you can't do better than travel about, and so compare your ideas and
 stock of knowledge with that of others.  You had better go as far up
 as Auvergne and the Forez, and see how grand and beautiful the world
-is beyond our valleys, and how the heart swells when we stand on the
+is beyond our vale's, and how the heart swells when we stand on the
 heights of a real mountain, and behold the waters, whose voice is
 louder than the voice of man, rolling downward to nourish the trees
 the verdure of which never dies.  Don't go into the lowlands of those
@@ -6787,7 +6786,7 @@ sang them:--
   The third sang in her ear,
   I love thee and I pray.
 
-  Friend shall never be
+  Friend shall never fee
   You who bear the flower
   (Listen to the nightingale),
   Friend shall never be
@@ -10791,7 +10790,7 @@ lest my want of practice should once more make him call me unhandy
 and imprudent, which would have mortified me cruelly in presence of
 Thérence.  So I begged Huriel to take me apart and show me how to
 work and to let me watch him at the business.  He was quite willing
-to oblige me, and I went at it with such a will that before long I
+to oblige rue, and I went at it with such a will that before long I
 surprised the master himself by my ability.  He praised me, and even
 asked me before his daughter why I took hold so valiantly of a
 business I had no occasion for in my own country.  "Because," I
